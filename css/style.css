@@ -230,6 +230,7 @@ hr {
 .header_search {
   display: flex;
   align-items: center;
+  padding-right: 10px;
 }
 
 .header__inner {
